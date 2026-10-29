@@ -1,2 +1,2 @@
 # Practice-Programs
-A rep, which are solutions to problems encountered at my college
+A rep, with a collection of well structured c++ implementations for problems encountered in my college
